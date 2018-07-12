@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ReferenceGroup xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" ID="9661d4f0-dab4-46ce-8bef-ee01a641b430" xmlns="urn:schemas-microsoft-com:xml-wcfservicemap">
+  <ClientOptions>
+    <GenerateAsynchronousMethods>false</GenerateAsynchronousMethods>
+    <GenerateTaskBasedAsynchronousMethod>true</GenerateTaskBasedAsynchronousMethod>
+    <EnableDataBinding>true</EnableDataBinding>
+    <ExcludedTypes />
+    <ImportXmlTypes>false</ImportXmlTypes>
+    <GenerateInternalTypes>false</GenerateInternalTypes>
+    <GenerateMessageContracts>false</GenerateMessageContracts>
+    <NamespaceMappings />
+    <CollectionMappings />
+    <GenerateSerializableTypes>true</GenerateSerializableTypes>
+    <Serializer>Auto</Serializer>
+    <UseSerializerForFaults>true</UseSerializerForFaults>
+    <ReferenceAllAssemblies>true</ReferenceAllAssemblies>
+    <ReferencedAssemblies />
+    <ReferencedDataContractTypes />
+    <ServiceContractMappings />
+  </ClientOptions>
+  <MetadataSources>
+    <MetadataSource Address="https://wyszukiwarkaregontest.stat.gov.pl/wsBIR/wsdl/UslugaBIRzewnPubl.xsd" Protocol="http" SourceId="1" />
+  </MetadataSources>
+  <Metadata>
+    <MetadataFile FileName="UslugaBIRzewnPubl_xsd3.xsd" MetadataType="Schema" ID="5443cfa2-7f41-496d-8632-29c7e06d0603" SourceId="1" SourceUrl="https://wyszukiwarkaregontest.stat.gov.pl/wsBIR/wsdl/UslugaBIRzewnPubl_xsd3.xsd" />
+    <MetadataFile FileName="UslugaBIRzewnPubl_wsdl0.wsdl" MetadataType="Wsdl" ID="edcf8172-10d7-4c3c-981c-76cedede5e2f" SourceId="1" SourceUrl="https://wyszukiwarkaregontest.stat.gov.pl/wsBIR/wsdl/UslugaBIRzewnPubl_wsdl0.xsd" />
+    <MetadataFile FileName="UslugaBIRzewnPubl.wsdl" MetadataType="Wsdl" ID="6d50b81e-9f8f-4aeb-8521-b75c87bb1668" SourceId="1" SourceUrl="https://wyszukiwarkaregontest.stat.gov.pl/wsBIR/wsdl/UslugaBIRzewnPubl.xsd" />
+    <MetadataFile FileName="UslugaBIRzewnPubl_xsd1.xsd" MetadataType="Schema" ID="ed983056-187b-45b7-ac4e-2fb9309235f7" SourceId="1" SourceUrl="https://wyszukiwarkaregontest.stat.gov.pl/wsBIR/wsdl/UslugaBIRzewnPubl_xsd1.xsd" />
+    <MetadataFile FileName="UslugaBIRzewnPubl_xsd2.xsd" MetadataType="Schema" ID="7a6d0e3c-1e4f-4f28-922d-df3df5a9270a" SourceId="1" SourceUrl="https://wyszukiwarkaregontest.stat.gov.pl/wsBIR/wsdl/UslugaBIRzewnPubl_xsd2.xsd" />
+    <MetadataFile FileName="UslugaBIRzewnPubl_xsd0.xsd" MetadataType="Schema" ID="9a55ce1a-2d05-4f7b-9ce0-fd62437a9be4" SourceId="1" SourceUrl="https://wyszukiwarkaregontest.stat.gov.pl/wsBIR/wsdl/UslugaBIRzewnPubl_xsd0.xsd" />
+  </Metadata>
+  <Extensions>
+    <ExtensionFile FileName="configuration91.svcinfo" Name="configuration91.svcinfo" />
+    <ExtensionFile FileName="configuration.svcinfo" Name="configuration.svcinfo" />
+  </Extensions>
+</ReferenceGroup>
